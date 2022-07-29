@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75E104&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Arial+Black&color=75E104&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+Eu+sou+o+Lucas+Avilla;Sou+de+Araçatuba,+SP;Estudante+de+ADS;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Arial+Black&color=75E104&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Lucas+Avilla;Sou+de+Araçatuba,+SP;Estudante+de+ADS;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasAvilla21&show_icons=true&count_private=true&hide_border=true&title_color=75E104&icon_color=75E104&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Avilla github stats" /> 
