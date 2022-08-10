@@ -4,10 +4,9 @@
 
 <div align="center">  
   <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api?username=lucasavillaa&show_icons=true&count_private=true&hide_border=true&title_color=75E104&icon_color=75E104&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Avilla github stats" />
-  
+
   <img width="35%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasavillaa&layout=compact&hide_border=true&title_color=75E104&text_color=75E104&bg_color=0d1117" />
 </div>
-
 
 <div align="center"> <h3 align="center"> 💻 Tecnologias que estou estudando </h3> </div>
 
