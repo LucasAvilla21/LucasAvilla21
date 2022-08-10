@@ -1,16 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75E104&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Arial+Black&color=75E104&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Lucas+Avilla;Eu+sou+de+Araçatuba,+SP;Estudante+de+ADS;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75E104&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Arial+Black&color=75E104&size=60&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Lucas+Avilla;Eu+sou+de+Araçatuba,+SP;Estudante+de+ADS;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="60%" height="190px" src="https://github-readme-stats.vercel.app/api?username=lucasavillaa&show_icons=true&count_private=true&hide_border=true&title_color=75E104&icon_color=75E104&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Avilla github stats" />
+  <img width="50%" height="190px" src="https://github-readme-stats.vercel.app/api?username=lucasavillaa&show_icons=true&count_private=true&hide_border=true&title_color=75E104&icon_color=75E104&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Avilla github stats" />
   
-  <img width="60%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasavillaa&layout=compact&hide_border=true&title_color=75E104&text_color=75E104&bg_color=0d1117" />
+  <img width="35%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasavillaa&layout=compact&hide_border=true&title_color=75E104&text_color=75E104&bg_color=0d1117" />
 </div>
 
-<div align="center"> 
-<br><p align="centre"><b>Tecnologias que eu estou estudando</b></p>  
 
+<div align="center"> <h3 align="center"> 💻 Tecnologias que estou estudando </h3> </div>
+
+<div align="center"> 
 <div style="display: inline_block">
   <img text-align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img text-align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
