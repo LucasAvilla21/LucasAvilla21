@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Arial+Black&color=75E104&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Eu+sou+o+Lucas+Avilla;Eu+sou+de+Araçatuba,+SP;Estudante+de+ADS;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="60%" height="190px" src="https://github-readme-stats.vercel.app/api?username=LucasAvilla21&show_icons=true&count_private=true&hide_border=true&title_color=75E104&icon_color=75E104&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Avilla github stats" />
+  <img width="60%" height="190px" src="https://github-readme-stats.vercel.app/api?username=lucasavillaa&show_icons=true&count_private=true&hide_border=true&title_color=75E104&icon_color=75E104&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Avilla github stats" />
   
-  <img width="60%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAvilla21&layout=compact&hide_border=true&title_color=75E104&text_color=75E104&bg_color=0d1117" />
+  <img width="60%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasavillaa&layout=compact&hide_border=true&title_color=75E104&text_color=75E104&bg_color=0d1117" />
 </div>
 
 <div align="center"> 
@@ -26,11 +26,11 @@
 <a href = "mailto:lucasavillaa@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=LucasAvilla21&theme=chartreuse-dark&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=lucasavillaa&theme=chartreuse-dark&hide_border=true&area=true)
 
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LucasAvilla21}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lucasavillaa}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=75E104&height=120&section=footer"/>
